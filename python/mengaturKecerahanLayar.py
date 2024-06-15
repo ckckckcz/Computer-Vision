@@ -2,7 +2,7 @@ import mediapipe as mp
 import numpy as np
 import screen_brightness_control as sbc
 import cv2
-from math import hypot
+
 
 cam_clip = cv2.VideoCapture(0)
 
